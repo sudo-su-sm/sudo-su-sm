@@ -1,8 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Sanket Muli
-
-### 🚀 DevOps Engineer | AWS · Kubernetes · Terraform · CI/CD
+### DevOps Engineer · 5 Years
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketmuli)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mulisanket@gmail.com)
@@ -16,12 +15,12 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **DevOps & Cloud Engineer** with **4.8 years of hands-on experience** architecting and operating highly available, secure, and cost-optimized cloud infrastructure on AWS. I specialize in taming complexity — turning infrastructure into repeatable, version-controlled code and releasing software faster without sacrificing quality or security.
+I'm a **DevOps Engineer** with **5 years of hands-on experience** architecting and operating highly available, secure, and cost-optimized cloud infrastructure on AWS. I specialize in taming complexity — turning infrastructure into repeatable, version-controlled code and releasing software faster without sacrificing quality or security.
 
 - 🏗️ I build cloud-native platforms with **AWS**, **Terraform**, and **Kubernetes (EKS)** — from bare VPCs to full production workloads
 - 🔄 I design **secure CI/CD pipelines** integrating Jenkins, Argo CD (GitOps), SonarQube, Trivy & OWASP checks
 - 📊 I keep systems observable with **Prometheus, Grafana, Dynatrace, and Splunk** — with a track record of cutting incident response times by **40%**
-- 🎓 Certified **RHCSA** | B.E. in E&TC from G.H. Raisoni College, Pune
+- 🎓 Certified **RHCSA** | B.E. in E&TC from savitribai phule pune university
 
 ---
 
@@ -58,19 +57,33 @@ I'm a **DevOps & Cloud Engineer** with **4.8 years of hands-on experience** arch
 
 ---
 
-## 💼 Career Highlights
+---
 
-```
-📍 Senior Analyst – DevOps @ HCL Tech (Jun 2023 – Present)
-   └─ Managed 150+ Linux servers | 99.9% uptime | 50+ production releases
+## 🏆 Impact at a Glance
 
-📍 Software Engineer @ CompuCom (Jul 2022 – May 2023)
-   └─ CI/CD automation | AWX deployments | SSL & IAM management
+| | |
+|---|---|
+| ☸️ **Kubernetes & EKS** | Deployed & managed apps on Amazon EKS — HPA, rolling updates, Helm, Secrets |
+| 🐳 **Docker** | Multi-stage & distroless images for 25+ apps → Amazon ECR |
+| 🏗️ **Terraform** | Full AWS IaC — EC2, VPC, EKS, RDS, ALB, IAM · S3 + DynamoDB remote state |
+| 🔄 **CI/CD** | Jenkins + Argo CD GitOps → **35% faster releases** · SonarQube, Trivy, OWASP gates |
+| 📊 **Monitoring** | Prometheus · Grafana · Dynatrace · Splunk → **40% faster incident response** |
+| 🖥️ **Scale** | 150+ Linux servers · 99.9% uptime · 50+ major production releases |
 
-📍 Cloud/Linux Administrator @ Groots Technologies (May 2021 – Jun 2022)
-   └─ 3-tier AWS architecture | Ansible automation | Full-stack infra support
-```
+---
 
+## 🌟 Featured Projects
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| [**aws-three-tier-terraform**](https://github.com/YOUR_GITHUB_USERNAME/aws-three-tier-terraform) | Terraform · AWS · VPC · RDS · ALB | Multi-AZ, remote state, modular IaC |
+| [**devsecops-cicd-pipeline**](https://github.com/YOUR_GITHUB_USERNAME/devsecops-cicd-pipeline) | Jenkins · Argo CD · Trivy · SonarQube | Full DevSecOps pipeline, GitOps delivery |
+| [**eks-production-setup**](https://github.com/YOUR_GITHUB_USERNAME/eks-production-setup) | EKS · Helm · Prometheus · Terraform | HPA, GitOps, production monitoring |
+| [**ansible-automation-playbooks**](https://github.com/YOUR_GITHUB_USERNAME/ansible-automation-playbooks) | Ansible · AAP · Linux | Fleet patching, zero-downtime config mgmt |
+| [**docker-optimized-builds**](https://github.com/YOUR_GITHUB_USERNAME/docker-optimized-builds) | Docker · ECR · Trivy | Distroless images, security scanning |
+| [**prometheus-grafana-stack**](https://github.com/YOUR_GITHUB_USERNAME/prometheus-grafana-stack) | Prometheus · Grafana · Alertmanager | Pre-built dashboards, alert rules |
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -93,8 +106,6 @@ I'm a **DevOps & Cloud Engineer** with **4.8 years of hands-on experience** arch
 </div>
 
 ---
----
-
 ## 📬 Let's Connect
 
 <div align="center">
@@ -107,7 +118,3 @@ I'm always open to interesting DevOps conversations, collaboration on open-sourc
 </div>
 
 ---
-
-<div align="center">
-  <i>⚡ "Automate everything that can be automated, monitor everything that cannot." ⚡</i>
-</div>
