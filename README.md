@@ -76,12 +76,11 @@ I'm a **DevOps Engineer** with **5 years of hands-on experience** architecting a
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [**aws-three-tier-terraform**](https://github.com/YOUR_GITHUB_USERNAME/aws-three-tier-terraform) | Terraform · AWS · VPC · RDS · ALB | Multi-AZ, remote state, modular IaC |
-| [**devsecops-cicd-pipeline**](https://github.com/YOUR_GITHUB_USERNAME/devsecops-cicd-pipeline) | Jenkins · Argo CD · Trivy · SonarQube | Full DevSecOps pipeline, GitOps delivery |
-| [**eks-production-setup**](https://github.com/YOUR_GITHUB_USERNAME/eks-production-setup) | EKS · Helm · Prometheus · Terraform | HPA, GitOps, production monitoring |
-| [**ansible-automation-playbooks**](https://github.com/YOUR_GITHUB_USERNAME/ansible-automation-playbooks) | Ansible · AAP · Linux | Fleet patching, zero-downtime config mgmt |
-| [**docker-optimized-builds**](https://github.com/YOUR_GITHUB_USERNAME/docker-optimized-builds) | Docker · ECR · Trivy | Distroless images, security scanning |
-| [**prometheus-grafana-stack**](https://github.com/YOUR_GITHUB_USERNAME/prometheus-grafana-stack) | Prometheus · Grafana · Alertmanager | Pre-built dashboards, alert rules |
+| [**Multibranch-Jenkins-Deployment**](https://github.com/sudo-su-sm/Multibranch-Jenkins-Deployment) | Jenkins · Docker · Argo CD · EKS · GitHub | Full GitOps flow: feature branch → PR → CI build → Docker push → Argo CD sync → live on EKS |
+| [**Multistage_Docker_Image_JAVA**](https://github.com/sudo-su-sm/Multistage_Docker_Image_JAVA) | Docker · Java · Maven · Alpine | Multi-stage build reduced image from 849MB → 285MB (**66% smaller**); non-root, health checks, layer caching |
+| [**GitHub_Actions_CICD**](https://github.com/sudo-su-sm/GitHub_Actions_CICD) | GitHub Actions · Docker · Java · Jenkins | Automated CI/CD pipeline with 51 commits — build, containerize & deploy on every push |
+| [**Terraform_s3_backend**](https://github.com/sudo-su-sm/Terraform_s3_backend) | Terraform · AWS S3 · DynamoDB · HCL | Remote state management with S3 versioning + DynamoDB locking — prevents concurrent state corruption |
+| [**EKS_with_Terraform**](https://github.com/sudo-su-sm/EKS_with_Terraform) | Terraform · AWS EKS · Kubernetes · HCL | Production EKS cluster provisioned as code — node groups, IAM roles, networking fully automated |
 
 ---
 ## 📊 GitHub Stats
