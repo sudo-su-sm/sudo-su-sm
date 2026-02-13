@@ -2,13 +2,13 @@
 
 # 👋 Hey, I'm Sanket Muli
 
-### 🚀 DevOps & Cloud Engineer | AWS · Kubernetes · Terraform · CI/CD
+### 🚀 DevOps Engineer | AWS · Kubernetes · Terraform · CI/CD
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketmuli/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mulisanket@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudo-su-sm)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=sudo-su-sm&color=0e75b6&style=flat)
 
 </div>
 
@@ -57,6 +57,19 @@ I'm a **DevOps & Cloud Engineer** with **4.8 years of hands-on experience** arch
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 ---
+
+## 💼 Career Highlights
+
+```
+📍 Senior Analyst – DevOps @ HCL Tech (Jun 2023 – Present)
+   └─ Managed 150+ Linux servers | 99.9% uptime | 50+ production releases
+
+📍 Software Engineer @ CompuCom (Jul 2022 – May 2023)
+   └─ CI/CD automation | AWX deployments | SSL & IAM management
+
+📍 Cloud/Linux Administrator @ Groots Technologies (May 2021 – Jun 2022)
+   └─ 3-tier AWS architecture | Ansible automation | Full-stack infra support
+```
 
 ## 🌟 Featured Projects
 
@@ -136,15 +149,7 @@ I'm a **DevOps & Cloud Engineer** with **4.8 years of hands-on experience** arch
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudo-su-sm&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -162,20 +167,6 @@ I'm a **DevOps & Cloud Engineer** with **4.8 years of hands-on experience** arch
 </div>
 
 ---
-
-## 💼 Career Highlights
-
-```
-📍 Senior Analyst – DevOps @ HCL Tech (Jun 2023 – Present)
-   └─ Managed 150+ Linux servers | 99.9% uptime | 50+ production releases
-
-📍 Software Engineer @ CompuCom (Jul 2022 – May 2023)
-   └─ CI/CD automation | AWX deployments | SSL & IAM management
-
-📍 Cloud/Linux Administrator @ Groots Technologies (May 2021 – Jun 2022)
-   └─ 3-tier AWS architecture | Ansible automation | Full-stack infra support
-```
-
 ---
 
 ## 📬 Let's Connect
@@ -184,7 +175,7 @@ I'm a **DevOps & Cloud Engineer** with **4.8 years of hands-on experience** arch
 
 I'm always open to interesting DevOps conversations, collaboration on open-source tooling, or new opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketmuli/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mulisanket@gmail.com)
 
 </div>
